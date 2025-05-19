@@ -32,7 +32,7 @@ Whether you're a coding enthusiast or a paddle warrior, this game's simplicity a
 
 ---
 
-![JavaBounce Screenshot](![image](https://github.com/user-attachments/assets/b4b86616-9dc6-499b-882e-a5ca9d8bece6)
+![JavaBounce Screenshot](![image](https://github.com/user-attachments/assets/b4b86616-9dc6-499b-882e-a5ca9d8bece6))
 
 ---
 ## 🛠️ Getting Started
